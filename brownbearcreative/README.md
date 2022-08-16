@@ -1,15 +1,21 @@
 # Brown Bear Creative
 
-This is a full-stack projecte designed by Melissa Mackie. This E-Comm website is a mock website has the following:
+This is a full-stack react project designed by Melissa Mackie. This E-Comm website is a mock website has the following tech sta
+
 
 ## Time to MVP:
 
+---
+## Implemented Features:
+1.
+2.
+3. 
 ---
 
 ## Planned Features:
 
 ### Landing Page
-            1. Logo
+            1. Logo 
             2. Login 
             3. Signup  
             4. Navigation (Top and Bottom)
