@@ -1,5 +1,7 @@
 {
   "name": "brownbearcreative",
+  "author": "Melissa Mackie",
+  "email": "mmackie542-projects@gmail.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
