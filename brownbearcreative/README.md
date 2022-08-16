@@ -33,31 +33,31 @@ This is a full-stack projecte designed by Melissa Mackie. This E-Comm website is
 ### Payment Acceptance: Strip, Paypal, Square
 ### Google OAuth Login
 ### Dashboard (Customer)
-        1. Profile
-                * Shipping Address
-                * Name
-                * Email Address
-                * Contact Number
-                * Payment Information
-                * Order History
-                * Wishlist
-                * Lists
-                * Connected Accounts
-                * Opt in/out Newsletter
-        2. Shopping
-        3. Deals
-        4. Special Orders
+    1. Profile
+        * Shipping Address
+        * Name
+        * Email Address
+        * Contact Number
+        * Payment Information
+        * Order History
+        * Wishlist
+        * Lists
+        * Connected Accounts
+        * Opt in/out Newsletter
+    2. Shopping
+    3. Deals
+    4. Special Orders
 ### Dashboard (Manager)
-        1. Manager Profile
-        2. Employee Account Management
-                * Enable
-                * Disable
-                * Password Set/Reset
-                * Metrics View
-        3. Chat w/ Customers
+    1. Manager Profile
+    2. Employee Account Management
+        1. Enable
+        2. Disable
+        3. Password Set/Reset
+        4. Metrics View
+    3. Chat w/ Customers
 ### Dashboard (Employee)
-        1. Employee Profile        
-        2. Chat w/ Customers
+    1. Employee Profile        
+    2. Chat w/ Customers
 
 ---
 
