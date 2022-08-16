@@ -7,7 +7,8 @@ This is a full-stack projecte designed by Melissa Mackie. This E-Comm website is
 ---
 
 ## Planned Features:
-    ### Landing Page
+
+### Landing Page
             1. Logo
             2. Login 
             3. Signup  
@@ -28,11 +29,11 @@ This is a full-stack projecte designed by Melissa Mackie. This E-Comm website is
                 * Contact
                 * FAQs
                 * Shopping & Returns
-    ### UserLevels: Manager, Employee, Customer 
-    ### Payment Acceptance: Strip, Paypal, Square
-    ### Google OAuth Login
-    ### Dashboard (Customer)
-            1. Profile
+### UserLevels: Manager, Employee, Customer 
+### Payment Acceptance: Strip, Paypal, Square
+### Google OAuth Login
+### Dashboard (Customer)
+        1. Profile
                 * Shipping Address
                 * Name
                 * Email Address
@@ -43,26 +44,27 @@ This is a full-stack projecte designed by Melissa Mackie. This E-Comm website is
                 * Lists
                 * Connected Accounts
                 * Opt in/out Newsletter
-            2. Shopping
-            3. Deals
-            4. Special Orders
-    ### Dashboard (Manager)
-            1. Manager Profile
-            2. Employee Account Management
+        2. Shopping
+        3. Deals
+        4. Special Orders
+### Dashboard (Manager)
+        1. Manager Profile
+        2. Employee Account Management
                 * Enable
                 * Disable
                 * Password Set/Reset
                 * Metrics View
-            3. Chat w/ Customers
-    ### Dashboard (Employee)
-            1. Employee Profile        
-            2. Chat w/ Customers
+        3. Chat w/ Customers
+### Dashboard (Employee)
+        1. Employee Profile        
+        2. Chat w/ Customers
 
 ---
 
-##Change-Log
-    8/15/22 -   * Project Setup
-                * Read.me Setup
+## Change-Log
+    8/15/22 -   
+    * Project Setup
+    * Read.me Setup
 
             
 
